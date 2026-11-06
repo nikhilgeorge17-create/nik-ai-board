@@ -1,0 +1,6 @@
+{
+  "name": "NIK-Ai board - Custom Android AI Keyboard",
+  "description": "Production-ready Android custom soft keyboard with Gemini AI writing tools, paraphraser, real-time grammar fix, 30+ language translation, tone adjuster, and chat drawer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
